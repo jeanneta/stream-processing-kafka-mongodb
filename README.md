@@ -73,11 +73,12 @@ This project demonstrates stream processing using **Apache Kafka** and **MongoDB
   }
 ```
 
-1. **Google Sheets Integration**:
+5. **Google Sheets Integration**:
     - Save data from **MongoDB** to **Google Sheets** using the **python-googlesheet.ipynb** notebook.
-    - Check out the data ingested to google sheet https://docs.google.com/spreadsheets/d/1AW94j_xIgFpAHG8MZeVdvj9wG3Gudjwcyavr8plMgLg/edit?gid=400811532#gid=400811532
-2. **Dashboard**:
+    - Check out the data ingested to google sheet https://docs.google.com/spreadsheets/d/1Pe8zrsmryaVOC8ODuAt4QXHTl30WF5FbJPkuf7qVWVo/edit?gid=0#gid=0
+6. **Dashboard**:
     - Use **Google Data Studio** to create a dashboard for visualizing the processed data.
+    - Check out this Looker Studio dashboard https://lookerstudio.google.com/reporting/af53ce4f-b693-497c-b045-eb552dc731ed 
 
 ## Technologies Used
 
